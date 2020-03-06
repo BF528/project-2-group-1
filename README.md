@@ -1,10 +1,10 @@
 # Project Description
 
-A brief description of what this repository is for and what it contains
+This repository contains files related to the project "Transcriptional Profile of Mammalian Cardiac Regeneration with mRNA seq" (https://bf528.readthedocs.io/en/latest/content/projects/project_2_rnaseq_1/project_2_rnaseq_1.html)
 
 # Contributors
 
-List contributor names and github user names, or email addresses if desired
+Divya (Programmer), Garima (Analyst), Marlene (Data Curator), Xudong (Biologist)
 
 # Repository Contents
 
