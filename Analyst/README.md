@@ -9,3 +9,8 @@
 •	downregulated_genes.txt- contains the list of downregulated genes based on log2.fold_change<0
 
 •	upregulated_genes.txt-contains the list of upregulated genes based on log2.fold_change>0
+
+•	up_cluster.csv – contains top DAVID cluster for up regulated genes
+
+•	down_cluster.csv- contains top DAVID cluster for downregulated genes
+
