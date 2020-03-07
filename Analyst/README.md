@@ -1,4 +1,4 @@
-Analyst Code contents:
+Analyst section content:
 
 Project2_Analyst.R - contains code for Anayst section of the Project
 
