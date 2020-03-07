@@ -1,6 +1,6 @@
 # Analyst Section Content:
 
-•	Project2_Analyst.R - contains code for Anayst section of the Project
+•	Project2_Analyst.R - contains code for Analyst section of the Project
 
 •	all_fold_change.pdf - contains histogram of fold_change for all genes in pdf
 
