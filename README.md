@@ -8,5 +8,6 @@ Divya (Programmer), Garima (Analyst), Marlene (Data Curator), Xudong (Biologist)
 
 # Repository Contents
 
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
-Analyst: contains Analyst code for the project
+Contents of the repository are given below:
+
+Analyst folder: contains Analyst results for the project.
