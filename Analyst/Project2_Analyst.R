@@ -18,8 +18,8 @@ data.sig.dn <- subset(data.sig,log2.fold_change.<0) #  subsetting downregulated 
 dim(data.sig)#5193
 dim(data.sig.up)#2760
 dim(data.sig.dn)#2433
-write(data.sig.up$gene,"upregulated_genes.csv") # saving to txt file
-write(data.sig.dn$gene,"downregulated_genes.csv")# saving to txt file
+write(data.sig.up$gene,"upregulated_genes.csv") # saving to csv file
+write(data.sig.dn$gene,"downregulated_genes.csv")# saving to csv file
 
 
 
