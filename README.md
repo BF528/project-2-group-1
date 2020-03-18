@@ -11,3 +11,5 @@ Divya (Programmer), Garima (Analyst), Marlene (Data Curator), Xudong (Biologist)
 Contents of the repository are given below:
 
 Analyst folder: contains Analyst results for the project.
+
+Data Folder : Contains the data that was used for downstream analysis.
