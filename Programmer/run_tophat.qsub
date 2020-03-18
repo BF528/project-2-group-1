@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#$ -P bf528
+#$ -cwd
+#$ -j y
+#$ -pe mpi_16_tasks_per_node 16
+
+echo "Running job $JOB_ID"
+echo "Started: $(date +%F)"
+echo "Running in directory: $PWD"
+
+# your commands here
+
+module load samtools/0.1.19 bowtie2 boost tophat
+
+tophat -r 200 -G /project/bf528/project_2/reference/annot/mm9.gtf --segment-length=20 --segment-mismatches=1 --no-novel-juncs -o P0_1_tophat -p 16 /project/bf528/project_2/reference/mm9 /projectnb/bf528/users/group1/project2/data/PO_1.fastq /projectnb/bf528/users/group1/project2/data/PO_2.fastq
+
+echo "Job finished: $(date +%F)"
