@@ -12,4 +12,6 @@ Contents of the repository are given below:
 
 Analyst folder: contains Analyst results for the project.
 
+Programmer folder: contains programmer results for the project.
+
 Data Folder : Contains the data that was used for downstream analysis.
